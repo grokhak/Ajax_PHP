@@ -1,0 +1,3 @@
+#pjax_test
+
+pjaxのテスト
