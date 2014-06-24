@@ -1,3 +1,5 @@
-#pjax_test
+#ajaxとPHPのテスト
+ajaxとPHPのテストです
 
-pjaxのテスト
+//h2
+
