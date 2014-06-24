@@ -1,5 +1,5 @@
-#ajaxとPHPのテスト
+ajaxとPHPのテスト
 ajaxとPHPのテストです
 
-//h2
+##h2
 
